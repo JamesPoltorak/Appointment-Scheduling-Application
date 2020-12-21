@@ -25,7 +25,7 @@ import java.time.ZoneOffset;
 import java.time.format.TextStyle;
 import java.util.*;
 
-public class Controller implements Initializable {
+public class LoginController implements Initializable {
 
     Stage stage;
     Parent scene;

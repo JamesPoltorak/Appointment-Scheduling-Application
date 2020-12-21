@@ -2,7 +2,6 @@ package Main;
 
 import java.sql.*;
 
-import Controller.Controller;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
