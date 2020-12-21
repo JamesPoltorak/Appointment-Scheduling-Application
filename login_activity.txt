@@ -1,0 +1,40 @@
+Attempted Login:
+Attempted username: test
+Attempted password: heyt
+At: 2020-12-18 at 23:28:01 PST
+Successful Login:
+Username: test
+Password: test
+At: 2020-12-18 at 23:28:06 PST
+ATTEMPTED LOGIN:
+Attempted username: test
+Attempted password: he
+At: 2020-12-18 at 23:29:47 PST
+ATTEMPTED LOGIN:
+Attempted username: test
+Attempted password: fdafdsa
+At: 2020-12-18 at 23:30:01 PST
+SUCCESSFUL LOGIN:
+Username: test
+Password: test
+At: 2020-12-18 at 23:30:06 PST
+SUCCESSFUL LOGIN:
+Username: test
+Password: test
+At: 2020-12-20 at 00:14:06 PST
+SUCCESSFUL LOGIN:
+Username: test
+Password: test
+At: 2020-12-20 at 00:15:56 PST
+SUCCESSFUL LOGIN:
+Username: test
+Password: test
+At: 2020-12-20 at 00:19:24 PST
+ATTEMPTED LOGIN:
+Attempted username: test
+Attempted password: fdas
+At: 2020-12-20 at 21:39:49 PST
+SUCCESSFUL LOGIN:
+Username: test
+Password: test
+At: 2020-12-20 at 21:39:56 PST
