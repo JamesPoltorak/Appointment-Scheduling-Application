@@ -1,0 +1,6 @@
+Location: Conference Room A, Amount of Appointments: 1
+Location: test, Amount of Appointments: 10
+Location: Denver, Amount of Appointments: 1
+Location: Dallas, Amount of Appointments: 1
+Location: Home office, Amount of Appointments: 1
+Location: Houston, Amount of Appointments: 1

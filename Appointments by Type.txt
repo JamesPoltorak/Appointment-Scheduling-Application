@@ -1,0 +1,4 @@
+Type: test, Amount of Appointments: 10
+Type: Phone, Amount of Appointments: 3
+Type: In-Person, Amount of Appointments: 1
+Type: Online, Amount of Appointments: 1

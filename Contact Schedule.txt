@@ -1,0 +1,135 @@
+Contact ID: 1
+Appointment ID: 2
+Title: Meeting with CEO
+Type: In-Person
+Description: Overview meeting with CEO
+Start Time: 18-01-2021 13:00:00
+End Time: 18-01-2021 14:30:00
+Customer ID: 1
+
+Contact ID: 1
+Appointment ID: 3
+Title: Appt 1
+Type: Phone
+Description: Appt 1
+Start Time: 31-01-2021 05:00:00
+End Time: 31-01-2021 06:00:00
+Customer ID: 6
+
+Contact ID: 1
+Appointment ID: 4
+Title: Test
+Type: test
+Description: test
+Start Time: 19-01-2021 09:30:00
+End Time: 19-01-2021 11:30:00
+Customer ID: 1
+
+Contact ID: 1
+Appointment ID: 6
+Title: test2
+Type: test
+Description: test
+Start Time: 17-01-2021 14:00:00
+End Time: 17-01-2021 14:45:00
+Customer ID: 2
+
+Contact ID: 1
+Appointment ID: 7
+Title: test
+Type: test
+Description: test
+Start Time: 18-01-2021 14:30:00
+End Time: 18-01-2021 15:30:00
+Customer ID: 1
+
+Contact ID: 1
+Appointment ID: 8
+Title: test
+Type: test
+Description: test
+Start Time: 19-01-2021 05:15:00
+End Time: 19-01-2021 08:00:00
+Customer ID: 1
+
+Contact ID: 1
+Appointment ID: 9
+Title: test
+Type: test
+Description: test
+Start Time: 19-01-2021 08:00:00
+End Time: 19-01-2021 09:00:00
+Customer ID: 1
+
+Contact ID: 1
+Appointment ID: 10
+Title: test
+Type: test
+Description: test
+Start Time: 19-01-2021 08:30:00
+End Time: 19-01-2021 09:30:00
+Customer ID: 2
+
+Contact ID: 1
+Appointment ID: 11
+Title: test
+Type: test
+Description: test
+Start Time: 20-01-2021 07:00:00
+End Time: 20-01-2021 08:00:00
+Customer ID: 8
+
+Contact ID: 1
+Appointment ID: 12
+Title: test
+Type: test
+Description: test
+Start Time: 18-01-2021 10:00:00
+End Time: 18-01-2021 10:30:00
+Customer ID: 5
+
+Contact ID: 1
+Appointment ID: 13
+Title: Vacation 2021
+Type: Online
+Description: Planning
+Start Time: 20-01-2021 06:00:00
+End Time: 20-01-2021 07:00:00
+Customer ID: 8
+
+Contact ID: 1
+Appointment ID: 14
+Title: Benefits
+Type: Phone
+Description: Changes	
+Start Time: 20-01-2021 06:00:00
+End Time: 20-01-2021 07:00:00
+Customer ID: 8
+
+Contact ID: 1
+Appointment ID: 15
+Title: Payroll
+Type: Phone
+Description: Updates
+Start Time: 29-01-2021 18:00:00
+End Time: 29-01-2021 18:45:00
+Customer ID: 7
+
+Contact ID: 1
+Appointment ID: 17
+Title: test
+Type: test
+Description: test
+Start Time: 18-01-2021 16:15:00
+End Time: 18-01-2021 17:15:00
+Customer ID: 1
+
+Contact ID: 2
+Appointment ID: 5
+Title: test
+Type: test
+Description: test
+Start Time: 17-01-2021 15:45:00
+End Time: 17-01-2021 16:45:00
+Customer ID: 2
+

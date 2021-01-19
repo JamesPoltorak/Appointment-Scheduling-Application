@@ -8,6 +8,8 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
+import static Model.Application.startApplication;
+
 public class Main extends Application {
     public Main() {
 
@@ -26,21 +28,8 @@ public class Main extends Application {
 
 
     public static void main(String[] args) {
-
-        try {
-            Connection myConn = DriverManager.getConnection("jdbc:mysql://wgudb.ucertify.com:3306/WJ05k6r", "U05k6r", "53688529325");
-            Statement myStmt = myConn.createStatement();
-            ResultSet myRs = myStmt.executeQuery("select * from users");
-            while (myRs.next()) {
-                System.out.println(myRs.getString("User_Name"));
-                System.out.println(myRs.getString("Password"));
-            }
-        }
-        catch (Exception exc) {
-            exc.printStackTrace();
-        }
-
+        startApplication();
         launch(args);
-
     }
 }
+
